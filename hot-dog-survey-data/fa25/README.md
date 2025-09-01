@@ -1,8 +1,11 @@
 # Hot Dog Survey Data
 
 This data was collected through a Google Form that was distributed by members of the DS 4002 class to UVA undergraduate students.
+
 The raw data is contained in the fa25 folder [here](https://github.com/evelynmaxwell/DS-4002-EM/blob/e28f50899ea8c597c03020353b31adfac08b9352/hot-dog-survey-data/fa25/Is%20hotdog%20a%20sandwich_%20(Responses).xlsx).
 The cleaned data was converted to csv format and is contained in the fa25 folder [here](https://github.com/evelynmaxwell/DS-4002-EM/blob/fba8a69058e6f2e503cfb5361381a50cdea96169/hot-dog-survey-data/fa25/Cleaned%20Hotdog%20Data.csv).
+
+Most of the participants in the dataset are fourth years, and 27.54% responded "Yes", that a hotdog is a sandwich.
 
 ---
 
